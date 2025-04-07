@@ -1,0 +1,5 @@
+# The following is a sample format. Never use actual private keys.
+# When using for real, remove all comments and keep only the private keys.
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef
+abcdef0123456789abcdef0123456789abcdef0123456789abcdef0123456789
+fedcba9876543210fedcba9876543210fedcba9876543210fedcba9876543210 
